@@ -26,7 +26,8 @@ public class CCleanerInstaller {
      * Checks if the CCleaner installer is opened.
      */
     public void ccleanerInstallerIsOpened() {
-        getWindowsDriver().findElement(By.name("CCleaner v6.12 Setup")).isDisplayed();
+        WebElement ccleanerApp = findElementByName("CCleaner v6.12 Setup");
+        isElementDisplayed(ccleanerApp);
     }
 
     /**
