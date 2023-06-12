@@ -8,19 +8,20 @@ Please be aware that the assumption is that the reviewer possesses prior knowled
 
 To obtain all the necessary software, please access the following link: [[Link](https://drive.google.com/drive/folders/1IaH37DKoRcgMAgLbEd4POCPa0D-hpYWx?usp=sharing)] 
 
-1. Windows 10 Home (x64) is required.
-2. Install Java 8
-3. Install Maven
-4. Install Git
-5. Install WinAppDriver, after installation navigate to Settings -> For developers - Enable developer mode
-6. Install node.js (required for Appium)
-7. Install Appium. Open PowerShell and run the following commands
+1. Windows 10 Home (x64) is required
+2. Install Chrome 
+3. Install Java 8
+4. Install Maven
+5. Install Git
+6. Install WinAppDriver, after installation navigate to Settings -> For developers - Enable developer mode
+7. Install node.js (required for Appium)
+8. Install Appium. Open PowerShell and run the following commands
 - ```Set-ExecutionPolicy RemoteSigned```
 - ```npm i -g appium@next```
 - ```appium driver install --source=npm appium-windows-driver```
 - ```appium --base-path /wd/hub --relaxed-security```
-8. Ensure that the Appium server starts successfully and remains in this mode.
-9. To clone the project from GitHub, navigate to the desired directory:
+9. Ensure that the Appium server starts successfully and remains in this mode.
+10. To clone the project from GitHub, navigate to the desired directory:
 -  ```cd C:\```
 -  ```git clone https://github.com/oriahuzov/ccleaner.git```
 
