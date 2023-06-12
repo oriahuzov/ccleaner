@@ -49,7 +49,7 @@ To build and run the project, follow these steps:
 1. (ACR-065) - OK
 2. (ACR-040) - OK
 3. (ACR-046) - OK
-4. (ACR-055) - OK
+4. (ACR-055) - NOT OK Note: To simulate a failure for this guideline, it was assumed that there should be a "Cancel" button on the CCleaner installer.
 
 ### Results storage
 The test results are stored in the following directory: ```C:\ccleaner\target```.
