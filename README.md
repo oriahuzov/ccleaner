@@ -4,7 +4,7 @@ The objective of the project is to utilize Java, Selenide, Appium, and WebAppDri
 
 ### Installation
 
-Please be aware that the assumption is that the reviewer possesses prior knowledge of installing Java, Maven, and Git. As a result, we do not provide detailed instructions for these steps.
+Please be aware that the assumption is that the reviewer possesses prior knowledge of installing Java, Maven, and Git. As a result, the detailed instructions for these steps are not provided.
 
 To obtain all the necessary software, please access the following link: [[Link](https://drive.google.com/drive/folders/1IaH37DKoRcgMAgLbEd4POCPa0D-hpYWx?usp=sharing)] 
 
